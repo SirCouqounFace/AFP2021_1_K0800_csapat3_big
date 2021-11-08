@@ -24,7 +24,6 @@ Ezeket az adatokat a program egy adatbázisból szerzi(az átlag hőmérséklete
     -Táblázat, melyben az adatok megjelennek,a gomb megnyomása után.
 
 ## 4. Fizikai környezet
-
 * Fejlesztői környezet:
     -Python
 
@@ -50,4 +49,11 @@ hibákat javítjuk a szoftverben, és újbóli tesztelésnek vetjük alá a rend
 
 A szoftver előrejelzésének pontosságát valós adatokon teszteljük.
 
-## 9. Karbantartási terv
+## 9. Telepítési terv
+* Fizikai telepítési terv: 
+    - Szükség van a megfelelő specifikációs számítógépre.  
+* Szoftver telepítési terv: 
+    - A python telepítése után telepíthető az alkalmazás
+
+## 10. Karbantartási terv
+Az alkalmazásnak nincs szüksége különösebb karbantartásra, új funkció hozzáadása esetén opcionális frissítést teszünk elérhetővé a felhasználó számára.
