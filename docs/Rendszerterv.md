@@ -3,31 +3,33 @@
 A project célja, hogy egy neurális háló, ami Pythonban van megírva, megtudja jósolni az időjárási adatokat. Például hőmérséklet, esőzés, páratartalom.
 Ezeket az adatokat a program egy adatbázisból szerzi(az átlag hőmérsékletet, az átlag esőzést). A program tartalmazni fog egy egyszerűbb GUI-t is. Így jobban átláthatóbb lesz.
 
-## 2. Üzleti folyamatok modellje
-
-## 3. Követelmények
+## 2. Követelmények
 * Funkcionális
+    -Kapcsolat teremtése az adatbázissal,illetve szükséges információk megszerzése az adatbázisból.
+    -A szükséges adatok megszerzése után az adatok átadása egy képi tanuló algoritmusnak.
+    -Neurális háló segítségével a megszerzett információk alapján előrejelzés készítése.
 ### Nem Funkcionális 
+    -Az alkalmazásnak (viszonylag) pontos,reális előrejelzést kell adni a felhasználó számára.
 
-## 4. Funkcionális terv
+## 3. Funkcionális terv
 * Rendszerszereplő:
 ### Rendszerhasználati esetek:
 * Felhasználó tudjon a programmal:
 
 ### Menü-hierarchia:
 
-## 5. Fizikai környezet
+## 4. Fizikai környezet
 
 * Fejlesztői környezet:
 
-## 6. Architekturális terv
+## 5. Architekturális terv
 
 * Specifikáció:
 
-## 7. Adatbázis terv
+## 6. Adatbázis terv
 
-## 8. Implementációs terv
+## 7. Implementációs terv
 
-## 9. Tesztterv
+## 8. Tesztterv
 
-## 10. Karbantartási terv
+## 9. Karbantartási terv
