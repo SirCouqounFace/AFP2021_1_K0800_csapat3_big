@@ -13,10 +13,15 @@ Ezeket az adatokat a program egy adatbázisból szerzi(az átlag hőmérséklete
 
 ## 3. Funkcionális terv
 * Rendszerszereplő:
+    -Felhasználó
 ### Rendszerhasználati esetek:
 * Felhasználó tudjon a programmal:
+    -Pontos előrejelzés alapján információkat szerezni az időjárással (hőmérséklet, csapadék, páratartalom) kapcsolatban.
 
 ### Menü-hierarchia:
+    -Legördülő lista, melyben a városnevek találhatók.
+    -Gomb, amely megerősíti a várost,és elindítja az előrejelzést
+    -Táblázat, melyben az adatok megjelennek,a gomb megnyomása után.
 
 ## 4. Fizikai környezet
 
