@@ -18,3 +18,17 @@ Időjárás előre jelzésre mindig szükség van, hiszen ez befojásolja az emb
 | 3 | Listázás | Itt tudja megnézni a felhasználó a bevitt adatokat.|
 | 4 | Időintervallum  | A felhasználó az időintervallum megadásával tudja szűrni, mely idő közötti adatokat lássa. |
 | 5 | Előrejelzés | Ezzel a funkcióval tudja elinditani a jóslás folyamatot a felhasználó. |
+
+## 5. Rendszerre vonatkozó törvények, szabványok, ajánlások
+
+Opensource szoftver. Bárki által letölthető és felhasználható. Az értékesítése nem megengedett!
+
+## 6. Jelenlegi üzleti folyamatok
+Jelenelg nincs egységes előrejelzés. Webhelyenként eltérőek az előrejelzések.
+
+## 5. Igényelt üzleti folyamatok
+
+1. Adatbázis
+2. Online megjelenés
+3. Adatok listázása egy megadott időintervallumon belül
+4. Átlag hőmérséklet, átlag esőzés előrejelzése
