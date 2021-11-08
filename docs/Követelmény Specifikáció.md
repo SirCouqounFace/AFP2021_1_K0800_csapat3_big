@@ -32,3 +32,11 @@ Jelenelg nincs egységes előrejelzés. Webhelyenként eltérőek az előrejelz�
 2. Online megjelenés
 3. Adatok listázása egy megadott időintervallumon belül
 4. Átlag hőmérséklet, átlag esőzés előrejelzése
+
+## 8. Fogalomtár
+
+**Python:** Programozási nyelv
+
+**GUI:** Grafikus felhasználói felület
+
+**Neurális háló:** Fő alkalmazási területe a gépi tanulás, melynek célja ezeknek a hálóknak a tanuló rendszerként történő gyakorlati alkalmazása.
