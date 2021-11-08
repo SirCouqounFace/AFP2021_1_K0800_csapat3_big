@@ -9,3 +9,7 @@ A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról
 ## 3. Jelenlegi üzleti folyamatok modellje
 
 ![Buisness](pics/uzleti.png)
+
+## 4. Igényelt üzleti folyamatok modellje
+
+![Future](pics/future.png)
