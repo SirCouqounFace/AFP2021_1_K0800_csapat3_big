@@ -8,3 +8,15 @@ A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról
 
 ## 3. Vágyálom rendszer
 Időjárás előre jelzésre mindig szükség van, hiszen ez befojásolja az emberek mindennapjait. Nem csak abban, hogy hogyan öltözzünk fel, de akár a munkában is fontos befojásoló tényező lehet. Ezért fontos ez a project. A grafikai felület legyen egyszerű, letisztult, könnyen használható. Fontos, hogy az adatok legyenek minél pontosabbak. Az eredményeket pedig egy grafikonon megjelenítse, és lelehessen menteni akár egy Excel táblázatba is.
+
+## 4. Funkcionális követelmény lista
+1. Adatbázis 
+* Itt tudja megadni a felhasználó az adatbázist.
+2. Grafikus felület
+* Itt tudja megtekinteni a felhasználó az adatokat.
+3. Listázás
+* Itt tudja megnézni a felhasználó a bevitt adatokat.
+4. Időintervallum 
+ * A felhasználó az időintervallum megadásával tudja szűrni, mely idő közötti adatokat lássa.
+ 5. Előrejelzés
+ * Ezzel a funkcióval tudja elinditani a jóslás folyamatot a felhasználó.
