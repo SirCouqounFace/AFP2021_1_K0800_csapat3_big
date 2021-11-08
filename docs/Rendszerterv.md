@@ -36,9 +36,9 @@ Az alkalmazás a felhasználó szamítógépén fog futni.
 
 ## 6. Adatbázis terv
 Az adatbázis tartalmaz egy városnevet,valamint a hozzá tartozó időjárási adatokat( hőmérséklet, csapadék, páratartalom, szélerősség )
-Az alkalmazás a felhasználó gépén fog futni java segítségével.
 
 ## 7. Implementációs terv
+Az alkalmazás a felhasználó gépén fog futni python segítségével.
 
 ## 8. Tesztterv
 
