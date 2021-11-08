@@ -26,7 +26,7 @@ Opensource szoftver. Bárki által letölthető és felhasználható. Az érték
 ## 6. Jelenlegi üzleti folyamatok
 Jelenelg nincs egységes előrejelzés. Webhelyenként eltérőek az előrejelzések.
 
-## 5. Igényelt üzleti folyamatok
+## 7. Igényelt üzleti folyamatok
 
 1. Adatbázis
 2. Online megjelenés
