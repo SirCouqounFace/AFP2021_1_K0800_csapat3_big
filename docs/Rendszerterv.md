@@ -41,5 +41,13 @@ Az adatbázis tartalmaz egy városnevet,valamint a hozzá tartozó időjárási 
 Az alkalmazás a felhasználó gépén fog futni python segítségével.
 
 ## 8. Tesztterv
+A minimum hardverkonfiguráció: Intel Celeron processzor, 4GB RAM, 128GB HDD, a képernyők felbontása 
+1280x1024 vagy 1920x1080 valamint telepített python.
+
+A tesztelés során a szoftver megfelelő működését vizsgáljuk. Amennyiben az elvártnak megfelelő 
+eredményt kapunk, a teszt eset sikeresnek tekinthető, ellenkező esetben a hibát rögzítjük a teszt jegyzőkönyvben. Ezt követően a megtalált
+hibákat javítjuk a szoftverben, és újbóli tesztelésnek vetjük alá a rendszert.
+
+A szoftver előrejelzésének pontosságát valós adatokon teszteljük.
 
 ## 9. Karbantartási terv
