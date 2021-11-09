@@ -27,3 +27,7 @@ Különösebb képernyőterv nem szükséges programunkhoz ugyanis terminálon f
 A felhasználó megnyitja az álltalunk készített programot google colab felületen, majd elindítja és némi várakozás után megjenítődik egy táblázat ami ábrázolja az előrejelzett időjárás adatokat.
 
 ## 9. Fogalomszótár
+* Python: A Python egy általános célú, nagyon magas szintű programozási nyelv.
+* Pandas: A pandas a Python programozási nyelv egyik progamkönyvtára, amely adatok feldolgozására és elemzésére szolgál.
+
+
