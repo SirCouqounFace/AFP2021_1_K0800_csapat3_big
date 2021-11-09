@@ -15,7 +15,7 @@ A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról
 ![Future](pics/future.png)
 
 ## 5. Követelmények
-
+A programnak minimális gépigény van mint követelmények ugyanis google colab felület segítségével egy virtuális gépen fog lefutni a program a felhőben. 
 
 ## 6. Használati esetek
 
