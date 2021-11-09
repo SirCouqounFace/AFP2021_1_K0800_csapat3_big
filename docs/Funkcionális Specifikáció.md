@@ -13,3 +13,17 @@ A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról
 ## 4. Igényelt üzleti folyamatok modellje
 
 ![Future](pics/future.png)
+
+## 5. Követelmények
+
+
+## 6. Használati esetek
+
+
+## 7. Képernyőterv
+
+
+## 8. Forgatókönyv
+
+
+## 9. Fogalomszótár
