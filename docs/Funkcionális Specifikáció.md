@@ -18,7 +18,7 @@ A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról
 A programnak minimális gépigény van mint követelmények ugyanis google colab felület segítségével egy virtuális gépen fog lefutni a program a felhőben. 
 
 ## 6. Használati esetek
-
+A felhasználónak lehetősége van egy időjárás előrejelzés készítésére programunk segítségével.
 
 ## 7. Képernyőterv
 
