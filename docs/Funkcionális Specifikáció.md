@@ -21,7 +21,7 @@ A programnak minimális gépigény van mint követelmények ugyanis google colab
 A felhasználónak lehetősége van egy időjárás előrejelzés készítésére programunk segítségével.
 
 ## 7. Képernyőterv
-
+Különösebb képernyőterv nem szükséges programunkhoz ugyanis terminálon fut le és egy pandas táblázat segítségével jeleníti meg majd az előrejelzett időjárás adatokat. 
 
 ## 8. Forgatókönyv
 
