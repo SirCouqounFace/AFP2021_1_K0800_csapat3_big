@@ -29,5 +29,6 @@ A felhasználó megnyitja az álltalunk készített programot google colab felü
 ## 9. Fogalomszótár
 * Python: A Python egy általános célú, nagyon magas szintű programozási nyelv.
 * Pandas: A pandas a Python programozási nyelv egyik progamkönyvtára, amely adatok feldolgozására és elemzésére szolgál.
+* Neurális háló: Fő alkalmazási területe a gépi tanulás, melynek célja ezeknek a hálóknak a tanuló rendszerként történő gyakorlati alkalmazása.
 
 
