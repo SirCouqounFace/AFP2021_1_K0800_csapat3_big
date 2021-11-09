@@ -24,6 +24,6 @@ A felhasználónak lehetősége van egy időjárás előrejelzés készítésér
 Különösebb képernyőterv nem szükséges programunkhoz ugyanis terminálon fut le és egy pandas táblázat segítségével jeleníti meg majd az előrejelzett időjárás adatokat. 
 
 ## 8. Forgatókönyv
-
+A felhasználó megnyitja az álltalunk készített programot google colab felületen, majd elindítja és némi várakozás után megjenítődik egy táblázat ami ábrázolja az előrejelzett időjárás adatokat.
 
 ## 9. Fogalomszótár
