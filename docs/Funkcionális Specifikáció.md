@@ -6,7 +6,10 @@ Lehetőség lesz megadni a várost melynek adatait szeretnénk jósolni.
 A folyamatok lezajlása után egyszerűbb grafikonok segítségével megjelenítésre kerülnek az jósolt adatok. 
 
 ## 2. Jelenlegi helyzet
-A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról. Az adatok felvitele után a program képes "megjósolni" az időjárast, bizonyos számolásoknak köszönhetően. Ezek az eredmények nem lesznek pontosak, csak közelítő eredmények, ezek az adatok arra jók hogy következtetéseket lehessen levonni belőllük. A program könnyen kezelhető lesz, így bárki gyorsan megtekintheti ezeket az adatokat
+A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról.
+ Az adatok felvitele után a program képes "megjósolni" az időjárast, bizonyos számolásoknak köszönhetően. 
+ Ezek az eredmények nem lesznek pontosak, csak közelítő eredmények, ezek az adatok arra jók hogy következtetéseket lehessen levonni belőllük. 
+ A program könnyen kezelhető lesz, így bárki gyorsan megtekintheti ezeket az adatokat.
 
 ## 3. Jelenlegi üzleti folyamatok modellje
 
@@ -18,6 +21,7 @@ A megrendelő szeretne pontosabb, összegzett adatokat látni az időjárásról
 
 ## 5. Követelmények
 A programnak minimális gépigény van mint követelmények ugyanis google colab felület segítségével egy virtuális gépen fog lefutni a program a felhőben. 
+Ezeken felül már csak a felhasználónak kell rendelkeznie elegendő intuicióval hogy képes legyen a programot sikeresen lefuttatni. 
 
 ## 6. Használati esetek
 A felhasználónak lehetősége van egy időjárás előrejelzés készítésére programunk segítségével.
