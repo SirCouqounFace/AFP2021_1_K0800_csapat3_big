@@ -1,7 +1,7 @@
 | Folyamat száma  | Funkció | Tesztelési folyamat leírása | Végkifejlet | Teszter Neve | Időpont|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | Program optimális keretek közti lefutása | Program sikeresen lefutott| Sikeres |  Bohunka Mátyás | 2022.01.08 |
-| 2  | Előrejelzés pontosságának tesztelése  | Az előrejelzés hibahatáron belüli pontossággal jósolt| Sikeres | Bohunka Mátyás | 2022.01.08
+| 2  | Predikció pontosságának tesztelése  | A predikció nem pontos| Sikertelen | Bohunka Mátyás | 2022.01.08
 | 3  | Jóslás a tanuló adatcsoportra grafikon megjelenítésének tesztelése  | A grafikonok megjelenítődnek megfelelő módon| Sikeres |  Bohunka Mátyás | 2022.01.08 |
 | 4  | Tanuló adatcsoport grafikon megjelenítésének tesztelése | Grafikon megfelelpen megjelent | Sikeres | Bohunka Mátyás | 2022.01.08 |
 | 5  | Adathalmaz első pár elemének megjelenítésének tesztelése  | Megfelelően megjelennek grafikonon | Sikeres | Bohunka Mátyás | 2022.01.08 |
@@ -17,3 +17,5 @@
 | 15 | Rendszerterv.md megjelenítésének vizsgálata  | Rendszerterv.md megfelelően megjelenik githubon | Sikeres | Bohunka Mátyás | 2022.01.08 |
 | 16 | Követelmény_Specifikáció.md megjelenítésének vizsgálata  | Követelmény_Specifikáció.md megfelelően megjelenik githubon | Sikeres | Bohunka Mátyás | 2022.01.08 |
 | 17 | Funkcionális_Specifikáció.md megjelenítésének vizsgálata  | Funkcionális_Specifikáció.md megfelelően megjelenik githubon | Sikeres | Bohunka Mátyás | 2022.01.08 |
+| 18 | Számítások  | Az algoritmus képes a számításokra, de az eredmények pontatlanok| Sikertelen | Bohunka Mátyás | 2022.01.08 |
+| 19 | Adathalmaz feldolgozása nem létező adatbázisból | Hibát ír ki | Sikertelen | Bohunka Mátyás | 2022.01.08 |
