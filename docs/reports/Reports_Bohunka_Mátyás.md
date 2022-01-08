@@ -14,8 +14,5 @@
 | 12 | Adathalmaz feldolgozásának vizsgálata  | Az adathalmaz megfelelően feldolgozásra kerül | Sikeres | Bohunka Mátyás | 2022.01.08 |
 | 13 | Szükséges library-k importálása  | A szükséges library-k sikeresen importálásra kerültek | Sikeres | Bohunka Mátyás | 2022.01.08 |
 | 14 | Sklearn modell készítésének ellenőrzése  | Megfelel az sklearn modell amelyet létrehoz a program | Sikeres | Bohunka Mátyás | 2022.01.08 |
-| 15 | Rendszerterv.md megjelenítésének vizsgálata  | Rendszerterv.md megfelelően megjelenik githubon | Sikeres | Bohunka Mátyás | 2022.01.08 |
-| 16 | Követelmény_Specifikáció.md megjelenítésének vizsgálata  | Követelmény_Specifikáció.md megfelelően megjelenik githubon | Sikeres | Bohunka Mátyás | 2022.01.08 |
-| 17 | Funkcionális_Specifikáció.md megjelenítésének vizsgálata  | Funkcionális_Specifikáció.md megfelelően megjelenik githubon | Sikeres | Bohunka Mátyás | 2022.01.08 |
-| 18 | Számítások  | Az algoritmus képes a számításokra, de az eredmények pontatlanok| Sikertelen | Bohunka Mátyás | 2022.01.08 |
-| 19 | Adathalmaz feldolgozása nem létező adatbázisból | Hibát ír ki | Sikertelen | Bohunka Mátyás | 2022.01.08 |
+| 15 | Számítások  | Az algoritmus képes a számításokra, de az eredmények pontatlanok| Sikertelen | Bohunka Mátyás | 2022.01.08 |
+| 16 | Adathalmaz feldolgozása nem létező adatbázisból | Hibát ír ki | Sikertelen | Bohunka Mátyás | 2022.01.08 |
