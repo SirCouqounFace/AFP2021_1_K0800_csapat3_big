@@ -9,4 +9,4 @@
 | 7  | Adattábla cseréje  | Ha a kódban nem írjuk át a megfelelő sorokban akkor nem működik | Sikertelen | Nem olvassa be a sorokat | Az adattáblát helyesen beolvassa | 2022.01.08
 | 8  | Adatok feldolgozása nem létező adatbázisból  | Hibát ír ki | Sikertelen | - | A program nem fut le | 2022.01.08
 | 9  | Colab githubból való működtetése  | Megfelelően működik | Sikeres | - | Megfelelően működik | 2022.01.08
-| 10  | Szükséges library-k importálása  | Beolvassa a szükséges lybrarikat | Sikeres | - | A szükséges lybrarikat beolvassa | 2022.01.08
+| 10  | Szükséges library-k importálása  | Beolvassa a szükséges librarykat | Sikeres | - | A szükséges librarykat beolvassa | 2022.01.08
