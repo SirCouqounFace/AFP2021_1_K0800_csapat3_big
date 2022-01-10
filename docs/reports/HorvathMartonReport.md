@@ -9,4 +9,4 @@
 | 7  | Colab és Github-al való összekötése | Githubon keresztül elérjük a foráskódot | Sikeres | - | A link sikeresen átnavigál | 2022.01.09
 | 8  | Adatok másik adatbázisból való feldolgozása  | A csv fájl cseréje | Sikeres | Mivel a kódba van égetve, nem lehetséges | A program hibára fut | 2022.01.09
 | 9  | Grafikus megjelenítés  | Az adatok megjelennek | Sikeres | - | A grafikonon megjelennek az eredmények | 2022.01.09
-| 10  | Library-k importálása | A kód felismeri az importánt library-ket | Sikeres | - | A szükséges lybrarikat beolvassa | 2022.01.09
+| 10  | Library-k importálása | A kód felismeri az importánt library-ket | Sikeres | - | A szükséges library-kat beolvassa | 2022.01.09
